@@ -1,0 +1,15 @@
+/dist
+/logs
+/npm-debug.log
+/node_modules
+.DS_Store
+.env
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
